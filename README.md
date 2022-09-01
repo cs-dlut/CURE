@@ -12,4 +12,4 @@ This repository contains code and data for simulation experiments and economic e
 --get web address http://localhost:8000/
 --Open this address in the browser to start the experiment
 
-3. In the simulation_experiments folder, including repeated prisoner's dilemma game (RPDG) experiment, repeated public goods game (RPGG) experiment, stochastic prisoner's dilemma game (SPDG) experiment. Under each corresponding folder is the relevant code and the Data obtained through run codes.
+3. In the simulation_experiments folder, including 1)codes of repeated prisoner's dilemma game (RPDG) experiment, repeated public goods game (RPGG) experiment, stochastic prisoner's dilemma game (SPDG) experiment; and 2)Source Data for main figures 2~5. For the simulation experiment code, you can execute the JAVA program on Eclipse and the .m program on Matlab.
