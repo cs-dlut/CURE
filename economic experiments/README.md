@@ -56,7 +56,7 @@ pip3 install otree==5.8.5
 # Running the web-based task:
 
 ## Locallly
-Download the zip file called `oTree5_cure.otreezip` at https://github.com/cs-dlut/CURE.git.
+Download the zip file called `oTree5_cure.zip` at https://github.com/cs-dlut/CURE.git.
 open the zip and travel to that folder in the Terminal.
 enter the command
 
